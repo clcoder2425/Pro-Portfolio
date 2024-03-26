@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://clcoder2425.github.io/Pro-Portfolio",
+  "homepage": "https://clcoder2425.github.io/Pro-Portfolio/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
